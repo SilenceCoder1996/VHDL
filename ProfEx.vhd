@@ -10,7 +10,6 @@ end entity;
 
 architecture behavioral of example is
 begin 
-
 	Y <=A ·B;
 
 end behavioral;
